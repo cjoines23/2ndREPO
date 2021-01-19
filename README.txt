@@ -1,3 +1,3 @@
 Hello Git and Github
 
-Hey! Hellooooo! Adding to GitHub!
+Hey! Hellooooo! Adding to GitHub! Git

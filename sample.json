@@ -1,0 +1,17 @@
+{
+    "people": [
+        {
+            "Id": "1",
+            "FirstName": "Colby",
+            "LastName": "Joines",
+            "Email": "joinescolby23@gmail.com"
+        },
+        { 
+            "Id": "2",
+            "FirstName": "Jack",
+            "LastName": "Jones",
+            "Email": "jackjoines@gmail.com"
+        }
+    ]
+
+}
